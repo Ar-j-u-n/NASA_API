@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NASA APOD</string>
+    <string name="title_listAstronomyPicture">NASA APOD Project</string>
+
+    <string name="retry">Retry</string>
+    <string name="error_fetching_data">Oops 😔 something wrong happened!</string>
+    <string name="astronomy_picture_cd">astronomy picture</string>
+    <string name="view_picture_button">View HD picture</string>
+    <string name="change_list_display_menu_item">Change list display</string>
+</resources>
